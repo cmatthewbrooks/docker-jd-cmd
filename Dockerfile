@@ -1,4 +1,4 @@
-FROM java:8-alpine
+FROM openjdk:8-alpine
 
 ENV JDCMD_VERSION 1.0.0.Final
 ENV JDCMD_SHA256 b87ec7ca0243bab697f2806ffe4e425618860787bf6cff3daff2e44bfd4a266a
